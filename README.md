@@ -19,6 +19,3 @@ The dashboard visualizes key trends in road accidents based on various factors s
 ## 📌 Tools Used
 - Microsoft Power BI
 - Excel (for initial data exploration)
-
-## 🔗 Related Submission
-Submitted to: CiSTUP, Indian Institute of Science (IISc), Bengaluru
